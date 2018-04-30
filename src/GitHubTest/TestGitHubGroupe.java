@@ -6,6 +6,7 @@ public class TestGitHubGroupe {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Tu me recois?");
+		System.out.println("Ola");
 
 
 	}
